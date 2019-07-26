@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enemy0 name ="big_meteor">
+	<properties>
+		<property path = "Sprite/PNG/Meteors/meteorBrown_big" count = "4" radius = "45" life = "4" basespeed = "0.75" deltaspeed = "1" acceleration = "15" damage = "50"/>
+	</properties>
+</enemy0>
+
+<enemy1 name ="big_meteor">
+	<properties>
+		<property path = "Sprite/PNG/Meteors/meteorBrown_med" count = "2" radius = "18" life = "2" basespeed = "1.5" deltaspeed = "1" acceleration = "15" 
+		damage = "20"/>
+	</properties>
+</enemy1>
+
+<enemy2 name ="big_meteor">
+	<properties>
+		<property path = "Sprite/PNG/Meteors/meteorBrown_small" count = "2" radius = "10" life = "1" basespeed = "2" deltaspeed = "2" acceleration = "15" 
+		damage = "10"/>
+	</properties>
+</enemy2>
+
+<enemy3 name ="big_meteor">
+	<properties>
+		<property path = "Sprite/PNG/Meteors/meteorBrown_tiny" count = "2" radius = "8" life = "1" basespeed = "2.5" deltaspeed = "2" acceleration = "15" damage = "5"/>
+	</properties>
+</enemy3>
